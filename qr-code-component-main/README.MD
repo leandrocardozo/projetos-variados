@@ -13,7 +13,7 @@ O objetivo principal deste exercício foi **praticar habilidades de HTML e CSS**
 
 O componente consiste em um **cartão com QR code**, contendo uma imagem e informações de texto centralizadas, com **estilo minimalista e moderno**.
 
-![Screenshot do projeto](images/image-qr-code.png)
+![Screenshot do projeto](images/2025-08-15_18-23.png)
 
 ## Tecnologias Utilizadas
 
